@@ -4,5 +4,5 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-<pre>Sample login ID: user@nextmail.com<br /><pre>
-<pre>       password: 123456</pre>
+Sample login ID: user@nextmail.com<br />
+&nbsp&nbsp&nbsp&nbsppassword: 123456
